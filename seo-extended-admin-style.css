@@ -1,0 +1,15 @@
+.seo_extended_table_page #col_post_type,
+.seo_extended_table_page #col_post_status {
+	width: 8%;
+}
+.seo_extended_table_page #col_date_modified,
+.seo_extended_table_page #col_row_action {
+	width: 10%;
+}
+.seo_extended_table_page .wp-list-table td input[type="text"] {
+	width: 100%;
+}
+.seo_extended_table_page .wp-list-table td textarea {
+	width: 100%;
+	height: 5em;
+}
